@@ -8,7 +8,6 @@ namespace ConsoleApp3
 {
     internal class diary
     {
-        public DateTime complete_date;
         public string title;
         public string description;
         public string title_two;

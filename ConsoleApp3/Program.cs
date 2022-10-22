@@ -322,6 +322,10 @@
                             }
                     }
                 }
+                else if (knopka.Key == ConsoleKey.Escape)
+                {
+                    Environment.Exit(0);
+                }
             }
         }
         static void Main()
